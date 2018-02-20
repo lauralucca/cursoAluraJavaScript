@@ -145,9 +145,9 @@ button[disabled=disabled], button:disabled {
 #mensagens-erro {
     color: red;
     text-align: center;
+    /*border: 1px solid red;*/
 }
 
 #mensagens-erro li {
-    padding: 12px;
-    border: 1px solid red;
+    padding: 8px;
 }
